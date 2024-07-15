@@ -19,9 +19,14 @@ Proporcionar la solución en un Jupyter Notebook que incluya:
 
 ## Entrega
 
-Entregar la prueba en un plazo de 7 días desde el envío de la prueba. Si necesitas más tiempo, por favor, comunícalo para reagendar el plazo de entrega.
 
 Subir la solución a un repositorio de GitHub: 
 - Crear un repositorio en GitHub y subir todos los archivos de la solución.
 - El repositorio debe incluir el Jupyter Notebook, el archivo SQL o script Python, y el archivo del dashboard o enlace al mismo.
-- Proporcionar un enlace al repositorio en GitHub como parte de la entrega.
+
+La entrega consiste en enviar un enlace a este repositorio a yanelis@adalab.es. El plazo para realizarlo es de 7 días desde la recepción. Si no tienes disponibilidad suficiente avísanos, el objetivo no es programar con prisas. Una vez entregado, concertaremos una reunión para revisar el resultado de la prueba y entender cómo lo has planteado.
+
+
+Si tienes cualquier duda o pregunta escríbeme a yanelisl@adalab.es y te la contestaré lo antes posible.
+
+Muchas gracias por esforzarte en hacer esta prueba técnica :) 
